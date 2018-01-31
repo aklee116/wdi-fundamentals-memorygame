@@ -60,16 +60,19 @@ p {
 }
 footer{
   text-transform: uppercase;
-  padding: 0 20px 2 20px;
+  padding: 0 20px 0 20px;
   background-color: #0D2C40;
   color: white;
   font-size: 14px;
   letter-spacing:.08em;
   font-weight: 500;
+
 }
 .copyright{
   font-family: "Raleway";
   float: left;
+
+
 }
 .message{
   font-family: "Raleway";
@@ -82,6 +85,7 @@ footer{
   clear: both;
   height: 0;
   font-size: 0;
+
 }
 .name {
   color: #F15B31;
